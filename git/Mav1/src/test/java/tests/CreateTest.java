@@ -19,7 +19,7 @@ public class CreateTest extends BaseClass
 		System.out.println("hello dona");
 
 		System.out.println("hello saigun");
-		System.out.println("jesus ");
+		System.out.println("test ");
 		
 	}
 
