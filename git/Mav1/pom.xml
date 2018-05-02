@@ -13,12 +13,21 @@
   <groupId>org.testng</groupId>
   <artifactId>testng</artifactId>
   <version>6.9.9</version>
- 
 </dependency>
+
 <dependency>
    <groupId>org.apache.poi</groupId>
    <artifactId>poi-ooxml</artifactId>
    <version>3.7</version>
 </dependency>
-  </dependencies>
+</dependencies>
+
+<repositories>
+    <repository>
+      <id>qspiderrepo</id>
+      <url>https://github.com/donavincent/qspiderrepo</url>
+    </repository>
+</repositories>
+  
+    
 </project>
